@@ -33218,7 +33218,7 @@ Source: AVX .. aphvc.pdf</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="VinoRodrigues_Custom_Eagle">
+<library name="SilvinoR_Custom_Eagle">
 <description>Arduino Fan Control Module</description>
 <packages>
 <package name="SKRKAEE020">
@@ -33730,7 +33730,7 @@ General-purpose diode for high-speed switching</description>
 </library>
 </libraries>
 <attributes>
-<attribute name="CNAME" value="VR61 - MicroMod 60% Custom Keyboard PCB"/>
+<attribute name="CNAME" value="SR61 - MicroMod 60% Custom Keyboard PCB"/>
 <attribute name="CREVISION" value="Rev A"/>
 </attributes>
 <variantdefs>
@@ -33978,8 +33978,8 @@ General-purpose diode for high-speed switching</description>
 <part name="U$20" library="__temp_to_delete" deviceset="FIDUCIAL" device=""/>
 <part name="U$21" library="__temp_to_delete" deviceset="FIDUCIAL" device=""/>
 <part name="U$22" library="__temp_to_delete" deviceset="FIDUCIAL" device=""/>
-<part name="S1" library="VinoRodrigues_Custom_Eagle" deviceset="MOMENTARY-SWITCH-SPST-1" device=""/>
-<part name="S2" library="VinoRodrigues_Custom_Eagle" deviceset="MOMENTARY-SWITCH-SPST-1" device=""/>
+<part name="S1" library="SilvinoR_Custom_Eagle" deviceset="MOMENTARY-SWITCH-SPST-1" device=""/>
+<part name="S2" library="SilvinoR_Custom_Eagle" deviceset="MOMENTARY-SWITCH-SPST-1" device=""/>
 <part name="C14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100nF"/>
 <part name="D80" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="BAS70-05" device="" package3d_urn="urn:adsk.eagle:package:43389/2"/>
 <part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="5.1K"/>

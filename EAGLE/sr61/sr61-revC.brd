@@ -227,13 +227,13 @@
 <wire x1="192.15" y1="11.6" x2="189.5" y2="11.6" width="1" layer="22"/>
 <wire x1="192.15" y1="7.85" x2="189.5" y2="7.85" width="1" layer="22"/>
 <text x="146.7046875" y="11.7203125" size="1.6764" layer="21" font="vector">tecsmith.com.au</text>
-<text x="138.3953125" y="19.9296875" size="1.6764" layer="21" font="vector" ratio="16">(c) 2022 Vino Rodrigues
-http://c1k.it/vr61</text>
+<text x="138.3953125" y="19.9296875" size="1.6764" layer="21" font="vector" ratio="16">(c) 2022 Silvino Rodrigues
+http://c1k.it/sr61</text>
 <text x="170.7" y="13" size="1.778" layer="21" rot="R270">BOOT</text>
 <text x="86.790625" y="14.1046875" size="1.6764" layer="21" font="vector">featuring</text>
 <text x="117.1" y="14.7" size="1.6764" layer="22" font="vector" rot="MR0">featuring</text>
-<text x="176.98125" y="12.8" size="1.6764" layer="22" font="vector" rot="MR0">(c) 2022 Vino Rodrigues
-http://c1k.it/vr61</text>
+<text x="176.98125" y="12.8" size="1.6764" layer="22" font="vector" rot="MR0">(c) 2022 Silvino Rodrigues
+http://c1k.it/sr61</text>
 <text x="168.2625" y="1.9" size="1.6764" layer="22" font="vector" rot="MR0">tecsmith.com.au</text>
 <text x="188.4" y="77.4" size="1" layer="26" rot="MR0" align="center-left">GND</text>
 <text x="188.4" y="80" size="1" layer="26" rot="MR0" align="center-left">LED@5</text>
@@ -369,8 +369,8 @@ http://c1k.it/vr61</text>
 <text x="13.3" y="23.525" size="1.27" layer="26" rot="MR30" align="center">ISO</text>
 <text x="60.325" y="63.6" size="1.6764" layer="26" rot="MR0" align="center-right">!BOOT</text>
 <text x="59.125" y="63.575" size="1.6764" layer="26" rot="MR180" align="center-right">RESET</text>
-<text x="138.3953125" y="19.9296875" size="1.6764" layer="1" font="vector" ratio="16">(c) 2022 Vino Rodrigues
-http://c1k.it/vr61</text>
+<text x="138.3953125" y="19.9296875" size="1.6764" layer="1" font="vector" ratio="16">(c) 2022 Silvino Rodrigues
+http://c1k.it/sr61</text>
 <text x="106" y="64.77" size="1.35" layer="26" rot="MR0" align="bottom-center">1 2 3 4</text>
 <wire x1="148.59" y1="64.77" x2="160.02" y2="64.77" width="1" layer="26"/>
 <wire x1="163.83" y1="64.77" x2="179.07" y2="64.77" width="1" layer="26"/>
@@ -10576,7 +10576,7 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 </package>
 </packages>
 </library>
-<library name="VinoRodrigues_Custom_Eagle">
+<library name="SilvinoR_Custom_Eagle">
 <description>Arduino Fan Control Module</description>
 <packages>
 <package name="SKRKAEE020">
@@ -11425,10 +11425,10 @@ design rules under a new name.</description>
 <element name="U$20" library="__temp_to_delete" package="FIDUCIAL" value="FIDUCIAL" x="3" y="3" smashed="yes"/>
 <element name="U$21" library="__temp_to_delete" package="FIDUCIAL" value="FIDUCIAL" x="259.525" y="92" smashed="yes"/>
 <element name="U$22" library="__temp_to_delete" package="FIDUCIAL" value="FIDUCIAL" x="283" y="50" smashed="yes"/>
-<element name="S1" library="VinoRodrigues_Custom_Eagle" package="SKRKAEE020" value="" x="58" y="60" smashed="yes" rot="MR90">
+<element name="S1" library="SilvinoR_Custom_Eagle" package="SKRKAEE020" value="" x="58" y="60" smashed="yes" rot="MR90">
 <attribute name="VALUE" x="53.19" y="56.62" size="1.778" layer="28" rot="MR90"/>
 </element>
-<element name="S2" library="VinoRodrigues_Custom_Eagle" package="SKRKAEE020" value="" x="61.45" y="60.025" smashed="yes" rot="MR90">
+<element name="S2" library="SilvinoR_Custom_Eagle" package="SKRKAEE020" value="" x="61.45" y="60.025" smashed="yes" rot="MR90">
 <attribute name="VALUE" x="56.64" y="56.645" size="1.778" layer="28" rot="MR90"/>
 </element>
 <element name="C14" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100nF" x="63.9" y="60.025" smashed="yes" rot="MR270">

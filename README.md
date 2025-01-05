@@ -1,4 +1,4 @@
-# VR61 - MicroMod 60% Custom Keyboard PCB
+# SR61 - MicroMod 60% Custom Keyboard PCB
 
 ***Featuring SparkFun's MicroMod Processor Boards***
 
@@ -14,9 +14,9 @@ Please follow the updates to this production process on the [changelog](CHANGELO
 
 ---
 
-![PCB Top View](docs/vr61-pcb-top.png)
+![PCB Top View](docs/sr61-pcb-top.png)
 
-![PCB Bottom View](docs/vr61-pcb-btm.png)
+![PCB Bottom View](docs/sr61-pcb-btm.png)
 
 Published as Open Source, under a [ Creative Commons Share-alike 4.0 International](LICENSE.md).  [![CC-0 license](https://shields.io/badge/-BY--SA_4.0-black?logo=creativecommons&logoColor=%23000&labelColor=%23c1c1c1
 )](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -26,21 +26,21 @@ Published as Open Source, under a [ Creative Commons Share-alike 4.0 Internation
 
 > &#128077; **WORKING, OK TO BUILD**
 
-* [PDF Schematic](docs/vr61-revB.2.pdf) <sup>1</sup>
-* [EAGLE PCB](EAGLE/vr61/vr61-revB.brd)
-* [EAGLE Schematic](EAGLE/vr61/vr61-revB.sch)
+* [PDF Schematic](docs/sr61-revB.2.pdf) <sup>1</sup>
+* [EAGLE PCB](EAGLE/sr61/sr61-revB.brd)
+* [EAGLE Schematic](EAGLE/sr61/sr61-revB.sch)
 
 * Notes:
     - Keymap Working on both STM32 and PR2040
     - *(Optional EEPROM not tested yet)*
 
-> <sup>1</sup> = *RevB.1 schematic is [here](docs/vr61-revB.pdf)*
+> <sup>1</sup> = *RevB.1 schematic is [here](docs/sr61-revB.pdf)*
 
 ### **Rev A** &nbsp; ![](https://img.shields.io/badge/!!-Fails-critical)
 
 > &#9888; Do not use this revision, it has terminal flaws.
 
-* ~~[PDF Schematic](docs/vr61-revA.pdf)~~
+* ~~[PDF Schematic](docs/sr61-revA.pdf)~~
 * ~~EAGLE PCB~~ <sup>2</sup>
 * ~~EAGLE Schematic~~ <sup>2</sup>
 
@@ -49,7 +49,7 @@ Published as Open Source, under a [ Creative Commons Share-alike 4.0 Internation
 
 ### QMK code:
 
-* https://github.com/Tecsmith/vr61-keyboard-qmk
+* https://github.com/Tecsmith/sr61-keyboard-qmk
 * USB Identifier registered with [pid.codes](https://pid.codes/) = [`1209`/`7672`](https://pid.codes/1209/7672/)
 
 ### Layout
@@ -61,7 +61,7 @@ Published as Open Source, under a [ Creative Commons Share-alike 4.0 Internation
 
 ## Features
 
-**VR61-MicroMod** - using SparkFun MicroMod STM32 or RP2040 M.2 module
+**SR61-MicroMod** - using SparkFun MicroMod STM32 or RP2040 M.2 module
 
 ### Core Design Elements
 
@@ -78,7 +78,7 @@ Published as Open Source, under a [ Creative Commons Share-alike 4.0 Internation
     
     - [STM32 Processor](https://www.sparkfun.com/products/17713) 
         - ARM Cortex-M4, 168MHz, 1MB Flash, 192kB SRAM
-        - https://github.com/Tecsmith/vr61-keyboard-qmk
+        - https://github.com/Tecsmith/sr61-keyboard-qmk
 
     - [RP2040 Processor](https://www.sparkfun.com/products/17720) 
         - ARM Cortex-M0+, 133MHz, 128Mb Flash (16MB external), 264kB SRAM in six banks
@@ -116,4 +116,5 @@ Published as Open Source, under a [ Creative Commons Share-alike 4.0 Internation
     ... plus under space-bar Boot pins for bootload without disassembly *(press while inserting cable for bootloader function)*
 
 ---
-Made with &#9829; by Vino Rodrigues
+
+Made with :heart: by Silvino Rodrigues
