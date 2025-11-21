@@ -1,10 +1,15 @@
 # SR61 - MicroMod 60% Custom Keyboard PCB
 
+[![CC-0 license](https://shields.io/badge/-BY--SA_4.0-black?logo=creativecommons&logoColor=%23000&labelColor=%23c1c1c1
+)](https://creativecommons.org/licenses/by-sa/4.0/)
+![]( https://img.shields.io/badge/-RETIRED-orange.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNjQwIj48cGF0aCBkPSJNMzUyIDk2QzM1MiA3OC4zIDMzNy43IDY0IDMyMCA2NEMzMDIuMyA2NCAyODggNzguMyAyODggOTZMMjg4IDMwNEMyODggMzEyLjggMjgwLjggMzIwIDI3MiAzMjBDMjYzLjIgMzIwIDI1NiAzMTIuOCAyNTYgMzA0TDI1NiAxMjhDMjU2IDExMC4zIDI0MS43IDk2IDIyNCA5NkMyMDYuMyA5NiAxOTIgMTEwLjMgMTkyIDEyOEwxOTIgNDAwQzE5MiA0MDEuNSAxOTIgNDAzLjEgMTkyLjEgNDA0LjZMMTMxLjYgMzQ3QzExNS42IDMzMS44IDkwLjMgMzMyLjQgNzUgMzQ4LjRDNTkuNyAzNjQuNCA2MC40IDM4OS43IDc2LjQgNDA1TDE4OC44IDUxMkMyMzEuOSA1NTMuMSAyODkuMiA1NzYgMzQ4LjggNTc2TDM2OCA1NzZDNDY1LjIgNTc2IDU0NCA0OTcuMiA1NDQgNDAwTDU0NCAxOTJDNTQ0IDE3NC4zIDUyOS43IDE2MCA1MTIgMTYwQzQ5NC4zIDE2MCA0ODAgMTc0LjMgNDgwIDE5Mkw0ODAgMzA0QzQ4MCAzMTIuOCA0NzIuOCAzMjAgNDY0IDMyMEM0NTUuMiAzMjAgNDQ4IDMxMi44IDQ0OCAzMDRMNDQ4IDEyOEM0NDggMTEwLjMgNDMzLjcgOTYgNDE2IDk2QzM5OC4zIDk2IDM4NCAxMTAuMyAzODQgMTI4TDM4NCAzMDRDMzg0IDMxMi44IDM3Ni44IDMyMCAzNjggMzIwQzM1OS4yIDMyMCAzNTIgMzEyLjggMzUyIDMwNEwzNTIgOTZ6IiBmaWxsPSIjZWVlIi8+PC9zdmc+)
+![]( https://img.shields.io/badge/Archived-Project-red.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNjQwIj48cGF0aCBkPSJNNjQgMTI4QzY0IDExMC4zIDc4LjMgOTYgOTYgOTZMNTQ0IDk2QzU2MS43IDk2IDU3NiAxMTAuMyA1NzYgMTI4TDU3NiAxNjBDNTc2IDE3Ny43IDU2MS43IDE5MiA1NDQgMTkyTDk2IDE5MkM3OC4zIDE5MiA2NCAxNzcuNyA2NCAxNjBMNjQgMTI4ek05NiAyNDBMNTQ0IDI0MEw1NDQgNDgwQzU0NCA1MTUuMyA1MTUuMyA1NDQgNDgwIDU0NEwxNjAgNTQ0QzEyNC43IDU0NCA5NiA1MTUuMyA5NiA0ODBMOTYgMjQwek0yNDggMzA0QzIzNC43IDMwNCAyMjQgMzE0LjcgMjI0IDMyOEMyMjQgMzQxLjMgMjM0LjcgMzUyIDI0OCAzNTJMMzkyIDM1MkM0MDUuMyAzNTIgNDE2IDM0MS4zIDQxNiAzMjhDNDE2IDMxNC43IDQwNS4zIDMwNCAzOTIgMzA0TDI0OCAzMDR6IiBmaWxsPSIjZWVlIi8+PC9zdmc+)
+
 ***Featuring SparkFun's MicroMod Processor Boards***
 
 ---
 
-> Very happy to announce that [PCBWay](https://pcbway.com) has gratefully sponsored the production of the first 5 RevA PCBs, and a partial assembly service *(all but the USB-C, Hot-Swap Sockets, JST-ph4 & SK6812's)*, for this project.
+> [PCBWay](https://pcbway.com) had gratefully sponsored the production of the first 5 RevA PCBs, and a partial assembly service.
 >
 > [![Official Sponsor - PCBWay](docs/pcbway.jpg)](https://pcbway.com/)
 >
@@ -18,11 +23,10 @@ Please follow the updates to this production process on the [changelog](CHANGELO
 
 ![PCB Bottom View](docs/sr61-pcb-btm.png)
 
-Published as Open Source, under a [ Creative Commons Share-alike 4.0 International](LICENSE.md).  [![CC-0 license](https://shields.io/badge/-BY--SA_4.0-black?logo=creativecommons&logoColor=%23000&labelColor=%23c1c1c1
-)](https://creativecommons.org/licenses/by-sa/4.0/)
+Published as Open Source, under a [ Creative Commons Share-alike 4.0 International](LICENSE.md).
 
 
-### **Rev B** &nbsp; ![](https://shields.io/badge/OK-Working-green?logo=checkmarx&OK=Working)
+### **Rev B** &nbsp; ![](https://shields.io/badge/OK-Working-green)
 
 > &#128077; **WORKING, OK TO BUILD**
 
@@ -54,7 +58,7 @@ Published as Open Source, under a [ Creative Commons Share-alike 4.0 Internation
 
 ### Layout
 
-* [KLE link](http://www.keyboard-layout-editor.com/#/gists/c812c931186e45a5acbc3e217ef4f161)
+* [KLE JSON](./kle/sr61-micromod-poker.json)
 
 
 *****
@@ -117,4 +121,4 @@ Published as Open Source, under a [ Creative Commons Share-alike 4.0 Internation
 
 ---
 
-Made with :heart: by Silvino Rodrigues
+Made with :heart: by Silvino R.
