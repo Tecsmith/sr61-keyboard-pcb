@@ -26,29 +26,17 @@ Please follow the updates to this production process on the [changelog](CHANGELO
 Published as Open Source, under a [ Creative Commons Share-alike 4.0 International](LICENSE.md).
 
 
-### **Rev B** &nbsp; ![](https://shields.io/badge/OK-Working-green)
+### **Rev C** &nbsp; ![](https://shields.io/badge/OK-Working-green)
 
-> &#128077; **WORKING, OK TO BUILD**
+> ~~&#128077; **WORKING, OK TO BUILD**~~ &nbsp; ![]( https://img.shields.io/badge/-RETIRED-orange.svg?logo=data:image/svg)
 
-* [PDF Schematic](docs/sr61-revB.2.pdf) <sup>1</sup>
-* [EAGLE PCB](EAGLE/sr61/sr61-revB.brd)
-* [EAGLE Schematic](EAGLE/sr61/sr61-revB.sch)
+* [PDF Schematic](docs/sr61-revC.pdf)
+* [EAGLE PCB](EAGLE/sr61/sr61-revC.brd)
+* [EAGLE Schematic](EAGLE/sr61/sr61-revC.sch)
 
 * Notes:
     - Keymap Working on both STM32 and PR2040
     - *(Optional EEPROM not tested yet)*
-
-> <sup>1</sup> = *RevB.1 schematic is [here](docs/sr61-revB.pdf)*
-
-### **Rev A** &nbsp; ![](https://img.shields.io/badge/!!-Fails-critical)
-
-> &#9888; Do not use this revision, it has terminal flaws.
-
-* ~~[PDF Schematic](docs/sr61-revA.pdf)~~
-* ~~EAGLE PCB~~ <sup>2</sup>
-* ~~EAGLE Schematic~~ <sup>2</sup>
-
-> <sup>2</sup> = *to access these files please use the Github history*
 
 
 ### QMK code:
